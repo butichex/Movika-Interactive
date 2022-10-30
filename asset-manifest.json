@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.445c0665.css",
+    "main.js": "/static/js/main.b6041e6e.js",
+    "static/media/action_fox-attack.mp4": "/static/media/action_fox-attack.2e469d12e5fe2729561c.mp4",
+    "static/media/action_passed.mp4": "/static/media/action_passed.eddca64b32c03bdee5ad.mp4",
+    "static/media/action_failed.mp4": "/static/media/action_failed.d18cac8808216004b83a.mp4",
+    "index.html": "/index.html",
+    "main.445c0665.css.map": "/static/css/main.445c0665.css.map",
+    "main.b6041e6e.js.map": "/static/js/main.b6041e6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.445c0665.css",
+    "static/js/main.b6041e6e.js"
+  ]
+}
