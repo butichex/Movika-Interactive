@@ -1,2 +1,2 @@
-# movika-int
+# movika-interactive
  
