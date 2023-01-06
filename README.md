@@ -1,3 +1,4 @@
+![React](https://badges.aleen42.com/src/react.svg) ![TypeScript](https://badges.aleen42.com/src/typescript.svg)
 ## Описание тестового задания
 Техническое задание “Разработка плагина воспроизведения интерактива Motion”. 
 Выполнить и прислать его в обратном письме необходимо в течениe 2 дней.
